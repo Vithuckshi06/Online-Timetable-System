@@ -1,2 +1,2 @@
-# Online-Timetable-System
+# Online Timetable Management System
 CSC3132 project
